@@ -1,0 +1,33 @@
+# ── Other course projects (not Project 7) ──────────────────────────────────
+Project 1 Files/
+Project 2/
+Project 3/
+Project4_export/
+Project4_export submission/
+Project4_export submission.zip
+Project4_export.zip
+Proj 5/
+Proj 6/
+
+# ── Course PDFs / docs (not our work) ──────────────────────────────────────
+ZOHDI-DRONE-BOOK-V22.pdf
+ZOHDI-DRONE-SIMULATION-CLASS-SYLLABUS-2026-V14.pdf
+DRONE-PACKET-1.pdf
+April 9th Notes - Convex optimization of Neural networks.docx
+Project 7 244.zip
+Project7_export.zip
+
+# ── Python cache ────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+
+# ── Binary / regeneratable files ────────────────────────────────────────────
+*.pkl
+
+# ── Claude internal settings ────────────────────────────────────────────────
+.claude/
+
+# ── OS noise ────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
